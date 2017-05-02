@@ -7,7 +7,7 @@ Kernel Sources
 **WIP**  
 
 More info to be supplied....  
-Tinkerboard: see http://192.168.0.250:8080/Porting_Guide/Get_The_Kernel_Source  
+Tinkerboard: see https://volumio.github.io/docs/Porting_Guide/Get_The_Kernel_Source.html
 
 This repo contains all files, used by the Volumio Builder to create a **Asus Tinkerboard** image  
 
