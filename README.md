@@ -17,4 +17,4 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 
 **Changelog**
 
-2017.05.02  First version
+2017.05.02  Beta version
