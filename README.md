@@ -20,6 +20,8 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 
 2017.05.02  Beta version  
 2017.05.04  Moved from Armbian build to the Asus Tinkerboard repo  
-	    Beta version with boot/ reboot/ wlan/ hotspot/ fixed mac addr/ USB Audio/ cifs/ nfs  
+  	    Beta version with boot/ reboot/ wlan/ hotspot/ fixed mac addr/ USB Audio/ cifs/ nfs  
+2017.05.05  Added heartbeat led, backed up 2 important patches in folder /patches  
+
 
 
