@@ -26,8 +26,9 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 2017.11.20  Asus: Upgrade to TinkerOS 2.0.3 uboot and kernel image  
 2018.02.06  Asus: rebuild platform-asus based on TinkerOS v2.0.4     
 2018.03.26  Asus: rebuild platform-asus based on TinkerOS v2.0.5  
-2018.06.02  Volumio: Fixed emergency reboot/ added USB Audio quirks/ ES90x8Q2M DAc overlay/ drivers  
-
-
+2018.06.02  Volumio: Fixed emergency reboot/ added USB Audio quirks    
+2018.07.30  Added support for ES90x8Q2M DAC (overlay)   
+2018.07.31  Added signed patch file for kernel 4.4.132+  
+2018.08.23  Asus: Confirmed ES90x8Q2M support, Fixed emergency reboot, USB Audio quirks (code base TinkerOSv2.0.8)  
 
 
