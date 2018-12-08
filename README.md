@@ -30,7 +30,8 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 2018.07.30  Added support for ES90x8Q2M DAC (overlay)   
 2018.07.31  Added signed patch file for kernel 4.4.132+  
 2018.08.23  Asus: Confirmed ES90x8Q2M support, Fixed emergency reboot, USB Audio quirks (code base TinkerOSv2.0.8)  
-2018.08.23  Volumio: temp reversed to 2018.07.31 version  
+2018.10.23  Asus: Fix for ES90x8Q2M patch  
+2018.12.08  Volumio: temporary switch to updated 4.4.71 
 
 
 
