@@ -33,6 +33,7 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 2018.10.23  Asus: Fix for ES90x8Q2M patch  
 2018.12.08  Volumio: temporary switch to updated 4.4.71  
 2019.01.01 Volumio: Support for more DSD-direct capable USB Audio devices  
+2019.01.18 Volumio: changed USB Audio from built-in to module  
 
 
 
