@@ -34,6 +34,7 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 2018.12.08  Volumio: temporary switch to updated 4.4.71  
 2019.01.01 Volumio: Support for more DSD-direct capable USB Audio devices  
 2019.01.18 Volumio: changed USB Audio from built-in to module  
+2019.05.19 Asus kernel 4.4.132 : trying to address the eq80x8q2m driver frequency issue  
 
 
 
