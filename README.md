@@ -4,7 +4,7 @@
 
 Kernel Sources  
 http://github.com/TinkerBoard/debian_kernel
-(branch "released", currently maintained by Asus, we only support)
+(currently we maintain 4.4.71)
 
 Tinkerboard: https://volumio.github.io/docs/, chapter "Porting_Guide"/ "Get_The_Kernel_Source"  
 
@@ -36,5 +36,9 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 2019.01.18 Volumio: changed USB Audio from built-in to module  
 2019.05.19 Asus kernel 4.4.132 : trying to address the eq80x8q2m driver frequency issue  
 2019.05.21 Revert the above change, stick to 4.4.71+ for the time being for Tinkerboard  
-2019.10.14 Reverted to 04bbe93096589574a6a686b6aa42d05b25250b85 (18 Jan) Because it's the best working kernel
+2020.08.17 Backported dwc2 driver from Asus debian_kernel (4.4.132) and applied dwc2 patch (usb audio issue)  
+2020.08.21 Backported USB Audio driver quirks from 5.7.x (except itf devices)  
+
+
+
 
