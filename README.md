@@ -38,7 +38,8 @@ This repo contains all files, used by the Volumio Builder to create a **Asus Tin
 2019.05.21 Revert the above change, stick to 4.4.71+ for the time being for Tinkerboard  
 2020.08.17 Backported dwc2 driver from Asus debian_kernel (4.4.132) and applied dwc2 patch (usb audio issue)  
 2020.08.21 Backported USB Audio driver quirks from 5.7.x (except itf devices)  
-
+2020.09.20 Added patch "ASoC_rockchip_i2s_fix_playback_after_runtime_resume"   
+ (cherry picked from commit c66234cfedfc3e6e3b62563a5f2c1562be09a35d)  
 
 
 
